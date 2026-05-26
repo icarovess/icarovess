@@ -114,7 +114,7 @@ const icaro = {
 ## stats
 
 <div align="center">
-
+<br>
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=icarovess&show_icons=true&hide_border=true&theme=tokyonight&title_color=7F77DD&text_color=888780&icon_color=7F77DD&include_all_commits=true&count_private=true"/>
 &nbsp;
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=icarovess&layout=compact&hide_border=true&theme=tokyonight&title_color=7F77DD&text_color=888780"/>
