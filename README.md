@@ -19,7 +19,7 @@
 ```ts
 const icaro = {
   role:       "fullstack developer (júnior / em formação)",
-  location:   "Ceará, Brasil 🇧🇷",
+  location:   "Brasil 🇧🇷",
   university: "Sistemas de Informação — Unicatólica Quixadá",
   english:    "fluent",
   interests:  ["física", "tecnologia", "ciência de dados", "ensino"],
@@ -63,13 +63,13 @@ const icaro = {
   <tr>
     <td width="20%" align="center"><b>out–dez 2025</b></td>
     <td width="30%"><b>SocialBrasilis</b></td>
-    <td>Cientista de Dados · Residência TIC-20 / CJovem — análise de clusters, visualização de dados e apresentação de resultados para tomada de decisão estratégica.</td>
+    <td>Cientista de Dados · Residência TIC-20 / CJovem — Imersão de 3 meses onde realizei análise de clusters, visualização de dados e apresentação de resultados para tomada de decisão estratégica.</td>
   </tr>
   <tr><td colspan="3"><hr/></td></tr>
   <tr>
     <td align="center"><b>nov 2024–dez 2025</b></td>
-    <td><b>QuiDev</b></td>
-    <td>Dev Web & Dados · startup de software sob demanda — landing pages, análise de métricas e contribuição em projetos coletivos.</td>
+    <td><b>ConecteVidas</b></td>
+    <td>Dev FullStack · startup de software sob demanda — landing pages, análise de métricas e contribuição em projetos coletivos.</td>
   </tr>
   <tr><td colspan="3"><hr/></td></tr>
   <tr>
