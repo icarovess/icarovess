@@ -89,15 +89,20 @@ const icaro = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/icarovess/EcoWallet-POO">EcoWallet-POO</a></h3>
-      <p>Projeto final de POO — pilares da orientação a objetos, padrões de projeto e princípios SOLID aplicados na prática.</p>
-      <img src="https://img.shields.io/badge/CSS-E6F1FB?style=flat-square&logo=css3&logoColor=185FA5"/>
-    </td>
+  <h3><a href="https://github.com/icarovess/EcoWallet-POO">EcoWallet-POO</a></h3>
+  <p>Projeto final de POO — pilares da orientação a objetos, padrões de projeto e princípios SOLID aplicados na prática.</p>
+  <img src="https://img.shields.io/badge/Java-FAECE7?style=flat-square&logo=openjdk&logoColor=712B13"/>
+  <img src="https://img.shields.io/badge/JavaFX-FAECE7?style=flat-square&logo=openjdk&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/Maven-EEEDFE?style=flat-square&logo=apachemaven&logoColor=3C3489"/>
+  <img src="https://img.shields.io/badge/CSS-E6F1FB?style=flat-square&logo=css3&logoColor=185FA5"/>
+</td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/icarovess/LandingPage-ConecteVidas">LandingPage-ConecteVidas</a></h3>
-      <p>Landing page com foco em performance, responsividade e integração com o sistema principal da plataforma.</p>
-      <img src="https://img.shields.io/badge/HTML-FAECE7?style=flat-square&logo=html5&logoColor=993C1D"/>
-    </td>
+  <h3><a href="https://github.com/icarovess/LandingPage-ConecteVidas">LandingPage-ConecteVidas</a></h3>
+  <p>Landing page com foco em performance, responsividade e integração com o sistema principal da plataforma.</p>
+  <img src="https://img.shields.io/badge/HTML-FAECE7?style=flat-square&logo=html5&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/CSS-E6F1FB?style=flat-square&logo=css3&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/JavaScript-FAEEDA?style=flat-square&logo=javascript&logoColor=633806"/>
+</td>
   </tr>
 </table>
 </div>
