@@ -1,87 +1,140 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║        ícaro pinheiro de pinho           ║
-║   fullstack developer  ·  ceará, br      ║
-╚══════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ícaro%20pinheiro&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=fullstack%20developer%20·%20ceará,%20brasil&descSize=16&descAlignY=58&descColor=a0a8c0" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&width=600&height=60&lines=building+interfaces+%26+APIs+that+make+sense;physics+%26+technology+enthusiast+%7C+fluent+in+english)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### sobre mim
+<br/>
 
-estudante de **Sistemas de Informação** na Unicatólica de Quixadá, construindo soluções que vão do front ao back.
-já trabalhei como cientista de dados, desenvolvedor web em startup e instrutor de programação — gosto de entender o todo.
-entusiasta de tecnologia, com fluência em inglês.
+```ts
+const icaro = {
+  role:       "fullstack developer (júnior / em formação)",
+  location:   "Ceará, Brasil 🇧🇷",
+  university: "Sistemas de Informação — Unicatólica Quixadá",
+  english:    "fluent",
+  interests:  ["física", "tecnologia", "ciência de dados", "ensino"],
+  currently:  "construindo projetos reais e aprendendo todo dia"
+}
+```
+
+<br/>
 
 ---
 
-### stack
-
-**frontend**
-```
-HTML · CSS · JavaScript · TypeScript · React · Next.js · jQuery
-```
-
-**backend**
-```
-Node.js · Java · Spring · Python
-```
-
-**dados & banco**
-```
-MySQL · SQL · Pandas · NumPy · Matplotlib · Seaborn
-```
-
-**outras ferramentas**
-```
-Git · GitHub · Jira · Kanban · Google Workspace
-```
-
----
-
-### onde já estive
-
-| período | empresa | papel |
-|---------|---------|-------|
-| out – dez/2025 | **SocialBrasilis** · Residência TIC-20 / CJovem | Cientista de Dados |
-| nov/2024 – dez/2025 | **QuiDev** | Dev Web & Ciência de Dados |
-| jan – ago/2025 | **New Center** | Instrutor de Programação & TI |
-
----
-
-### projetos em destaque
-
-**[EcoWallet-POO](https://github.com/icarovess/EcoWallet-POO)**
-> projeto final de POO — pilares da orientação a objetos, padrões de projeto e princípios SOLID aplicados na prática.
-
-**[LandingPage-ConecteVidas](https://github.com/icarovess/LandingPage-ConecteVidas)**
-> landing page com foco em performance, responsividade e integração com o sistema principal da plataforma.
-
----
-
-### stats
+## stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarovess&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide=contribs)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarovess&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e)
+### frontend
+![HTML5](https://img.shields.io/badge/HTML5-FAECE7?style=for-the-badge&logo=html5&logoColor=993C1D)
+![CSS3](https://img.shields.io/badge/CSS3-E6F1FB?style=for-the-badge&logo=css3&logoColor=185FA5)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=for-the-badge&logo=javascript&logoColor=633806)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=for-the-badge&logo=typescript&logoColor=0C447C)
+![React](https://img.shields.io/badge/React-E6F1FB?style=for-the-badge&logo=react&logoColor=185FA5)
+![Next.js](https://img.shields.io/badge/Next.js-F1EFE8?style=for-the-badge&logo=nextdotjs&logoColor=2C2C2A)
+
+### backend & dados
+![Node.js](https://img.shields.io/badge/Node.js-EAF3DE?style=for-the-badge&logo=nodedotjs&logoColor=27500A)
+![Java](https://img.shields.io/badge/Java-FAECE7?style=for-the-badge&logo=openjdk&logoColor=712B13)
+![Spring](https://img.shields.io/badge/Spring-EAF3DE?style=for-the-badge&logo=spring&logoColor=27500A)
+![Python](https://img.shields.io/badge/Python-EEEDFE?style=for-the-badge&logo=python&logoColor=3C3489)
+![MySQL](https://img.shields.io/badge/MySQL-E6F1FB?style=for-the-badge&logo=mysql&logoColor=0C447C)
+![Pandas](https://img.shields.io/badge/Pandas-EEEDFE?style=for-the-badge&logo=pandas&logoColor=3C3489)
 
 </div>
 
----
-
-### contato
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-ícaro--pinheiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-pinheiro-ba7111365)
-[![Email](https://img.shields.io/badge/email-icarocontato123%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:icarocontato123@hotmail.com)
+<br/>
 
 ---
+
+## experiência
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center"><b>out–dez 2025</b></td>
+    <td width="30%"><b>SocialBrasilis</b></td>
+    <td>Cientista de Dados · Residência TIC-20 / CJovem — análise de clusters, visualização de dados e apresentação de resultados para tomada de decisão estratégica.</td>
+  </tr>
+  <tr><td colspan="3"><hr/></td></tr>
+  <tr>
+    <td align="center"><b>nov 2024–dez 2025</b></td>
+    <td><b>QuiDev</b></td>
+    <td>Dev Web & Dados · startup de software sob demanda — landing pages, análise de métricas e contribuição em projetos coletivos.</td>
+  </tr>
+  <tr><td colspan="3"><hr/></td></tr>
+  <tr>
+    <td align="center"><b>jan–ago 2025</b></td>
+    <td><b>New Center</b></td>
+    <td>Instrutor de Programação & TI · ensino de HTML, CSS, JavaScript e suporte técnico a alunos.</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## projetos
 
 <div align="center">
-<sub>building things one commit at a time.</sub>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/icarovess/EcoWallet-POO">EcoWallet-POO</a></h3>
+      <p>Projeto final de POO — pilares da orientação a objetos, padrões de projeto e princípios SOLID aplicados na prática.</p>
+      <img src="https://img.shields.io/badge/CSS-E6F1FB?style=flat-square&logo=css3&logoColor=185FA5"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/icarovess/LandingPage-ConecteVidas">LandingPage-ConecteVidas</a></h3>
+      <p>Landing page com foco em performance, responsividade e integração com o sistema principal da plataforma.</p>
+      <img src="https://img.shields.io/badge/HTML-FAECE7?style=flat-square&logo=html5&logoColor=993C1D"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+## stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=icarovess&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=888780&icon_color=7F77DD&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarovess&layout=compact&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=888780"/>
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=icarovess&hide_border=true&background=00000000&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=888780&dates=888780&currStreakNum=534AB7&sideNums=534AB7)
+
+</div>
+
+<br/>
+
+---
+
+## contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-pinheiro-ba7111365)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarocontato123@hotmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
