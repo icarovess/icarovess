@@ -22,7 +22,7 @@ const icaro = {
   location:   "Brasil 🇧🇷",
   university: "Sistemas de Informação — Unicatólica Quixadá",
   english:    "fluent",
-  interests:  ["física", "tecnologia", "ciência de dados", "ensino"],
+  interests:  ["fullstack", "tecnologia", "ciência de dados", "python", "java"],
   currently:  "construindo projetos reais e aprendendo todo dia"
 }
 ```
