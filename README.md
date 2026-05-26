@@ -114,11 +114,6 @@ const icaro = {
 ## stats
 
 <div align="center">
-<br>
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=icarovess&show_icons=true&hide_border=true&theme=tokyonight&title_color=7F77DD&text_color=888780&icon_color=7F77DD&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=icarovess&layout=compact&hide_border=true&theme=tokyonight&title_color=7F77DD&text_color=888780"/>
-
 <br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=icarovess&hide_border=true&background=00000000&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=888780&dates=888780&currStreakNum=534AB7&sideNums=534AB7)
