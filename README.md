@@ -67,9 +67,9 @@ const icaro = {
   </tr>
   <tr><td colspan="3"><hr/></td></tr>
   <tr>
-    <td align="center"><b>nov 2024–dez 2025</b></td>
+    <td align="center"><b>mar 2025–atualmente</b></td>
     <td><b>ConecteVidas</b></td>
-    <td>Dev FullStack · startup de software sob demanda — landing pages, análise de métricas e contribuição em projetos coletivos.</td>
+    <td>Dev FullStack · Startup — Atuando no front-end e back-end, criando interfaces acessíveis, integrando APIs e garantindo uma comunicação eficiente, segura e escalável entre os sistemas.</td>
   </tr>
   <tr><td colspan="3"><hr/></td></tr>
   <tr>
